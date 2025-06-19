@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color:blueviolet;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input, button {
+    padding:10px ;
+    margin: 5px ; 
+    font-size: 18px ;
+}
